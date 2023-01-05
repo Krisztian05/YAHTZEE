@@ -1,5 +1,5 @@
 # YAHTZEE
 
-Made by: \n\t
+Made by:
   Krisztian05 - https://github.com/Krisztian05
   
